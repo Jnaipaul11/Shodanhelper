@@ -1,1 +1,3 @@
-SHODANHELPER REPO... i know there are tons of tools like this but i'm just trying
+SHODANHELPER REPO... i know there are tons of tools like this but i'm just trying to learn...
+
+USE AT YOUR OWN RISK!
